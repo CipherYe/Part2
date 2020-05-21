@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif, Arial, sans-serif;
+  background-size: cover;
+  background-color: #cff1ef;
+}
+
+h1 {
+  margin: auto;
+  color: #f57b51;
+}
+
+h4 {
+  color: #f57b51;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #888888;
+  border-width: 5px;
+  width: 50%;
+}
+
+.iii {
+  font-family: 'Pangolin', cursive;
+}
+
+.profile {
+  background-color: #fae7cb;
+  background-size: cover;
+  width:100%;
+}
+
+.Skill {
+  background-color: rgb(243, 252, 249);
+  background-size: cover;
+  width:100%;
+}
+
+.title {
+  font-size: 1.2rem;
+  background-color: #fee2b3;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  position: fixed;
+  top: 0px;
+  font-family: 'Dancing Script';
+}
+
+.bottom {
+  background-color: #ffa299;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  bottom: 0px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  background-size: cover;
+}
+
+.Education {
+  height: 15px;
+  width: 120px;
+  position: relative;
+  right: 400px;
+  display: inline-block;
+}
+
+.workxp {
+  height: 15px;
+  width: 120px;
+  position: relative;
+  right: 150px;
+  display: inline-block;
+}
+
+.contactme {
+  height: 15px;
+  width: 120px;
+  position: relative;
+  left: 100px;
+  display: inline-block;
+}
+
+.homepage {
+  height: 15px;
+  width: 120px;
+  position: relative;
+  left: 350px;
+  display: inline-block;
+}
+
+.bottom-container {
+  height: auto;
+  display: inline-block;
+}
+
+.BTN {
+  box-shadow: inset 4px 49px 24px -27px #e67a73;
+  background-color: #e4685d;
+  border-radius: 11px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  padding: 8px 12px;
+  text-decoration: none;
+  text-shadow: 3px -1px 3px #b23e35;
+}
+
+.BTN:hover {
+  background-color: #eb675e;
+}
+
+.BTN:active {
+  position: relative;
+  top: 1px;
+}
+
+<style type="text/css">a {
+  display: block;
+  width: 120px;
+  height: 40px;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: #f9f9f9;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #512b58;
+}
+
+</style>
